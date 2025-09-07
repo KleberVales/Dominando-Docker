@@ -26,5 +26,7 @@
 16. Testes e debug em containers Java
 17. Integração com Testcontainers para testes automatizados
 
+## Parte IV – Boas Práticas e Otimizações
+
 
 
