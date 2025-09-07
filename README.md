@@ -22,6 +22,7 @@
 12. Dockerizando uma aplicação Spring Boot
 13. Criando um Dockerfile eficiente para Java
 14. Usando docker-compose com banco de dados (MySQL, PostgreSQL)
+15. Variáveis de ambiente e perfis de configuração (application-dev.yml, application-prod.yml)
 
 
 
