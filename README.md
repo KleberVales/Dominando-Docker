@@ -37,6 +37,7 @@
 ## Parte V – Orquestração e Escalabilidade
 
 23. Introdução ao Docker Swarm
+24. Conceitos de Kubernetes para desenvolvedores
 
 
 
