@@ -32,6 +32,7 @@
 19. Multi-stage builds para produção
 20. Segurança em containers
 21. Versionamento e organização de imagens
+22. Automatizando builds com CI/CD (GitHub Actions, GitLab CI)
 
 
 
