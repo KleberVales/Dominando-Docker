@@ -39,6 +39,7 @@
 23. Introdução ao Docker Swarm
 24. Conceitos de Kubernetes para desenvolvedores
 25. Deploy de microsserviços com Docker e Spring Cloud
+26. Monitoramento e logging de containers
 
 
 
