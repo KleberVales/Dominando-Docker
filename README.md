@@ -24,6 +24,7 @@
 14. Usando docker-compose com banco de dados (MySQL, PostgreSQL)
 15. Variáveis de ambiente e perfis de configuração (application-dev.yml, application-prod.yml)
 16. Testes e debug em containers Java
+17. Integração com Testcontainers para testes automatizados
 
 
 
