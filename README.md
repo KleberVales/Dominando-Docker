@@ -13,4 +13,5 @@
 1. Criando seu primeiro container
 2. Trabalhando com imagens: docker build, docker pull, docker push
 3. Persistência de dados com Volumes
+4. Comunicação entre containers: Redes Docker
 
