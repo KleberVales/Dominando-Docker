@@ -11,4 +11,5 @@
 ## Parte II – Criando e Gerenciando Containers
 
 1. Criando seu primeiro container
+2. Trabalhando com imagens: docker build, docker pull, docker push
 
