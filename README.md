@@ -40,6 +40,7 @@
 24. Conceitos de Kubernetes para desenvolvedores
 25. Deploy de microsserviços com Docker e Spring Cloud
 26. Monitoramento e logging de containers
+27. Preparando sua aplicação para produção em nuvem
 
 
 
