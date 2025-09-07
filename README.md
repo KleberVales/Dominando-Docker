@@ -30,6 +30,7 @@
 
 18. Reduzindo o tamanho da imagem com JDKs leves
 19. Multi-stage builds para produção
+20. Segurança em containers
 
 
 
