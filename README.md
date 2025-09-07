@@ -6,4 +6,5 @@
 2. Containers vs Máquinas Virtuais
 3. Instalando o Docker no seu sistema
 4. Conceitos-chave: Imagens, Containers, Volumes e Redes
+5. Comandos básicos do Docker
 
