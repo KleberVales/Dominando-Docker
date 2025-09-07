@@ -14,4 +14,5 @@
 2. Trabalhando com imagens: docker build, docker pull, docker push
 3. Persistência de dados com Volumes
 4. Comunicação entre containers: Redes Docker
+5. Gerenciando containers em tempo real: logs, stats, exec
 
