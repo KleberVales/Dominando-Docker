@@ -29,6 +29,7 @@
 ## Parte IV – Boas Práticas e Otimizações
 
 18. Reduzindo o tamanho da imagem com JDKs leves
+19. Multi-stage builds para produção
 
 
 
