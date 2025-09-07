@@ -34,5 +34,7 @@
 21. Versionamento e organização de imagens
 22. Automatizando builds com CI/CD (GitHub Actions, GitLab CI)
 
+## Parte V – Orquestração e Escalabilidade
+
 
 
