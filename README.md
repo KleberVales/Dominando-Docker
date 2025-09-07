@@ -10,12 +10,17 @@
 
 ## Parte II – Criando e Gerenciando Containers
 
-1. Criando seu primeiro container
-2. Trabalhando com imagens: docker build, docker pull, docker push
-3. Persistência de dados com Volumes
-4. Comunicação entre containers: Redes Docker
-5. Gerenciando containers em tempo real: logs, stats, exec
-6. Registries e versionamento de imagens (Docker Hub, GitHub, AWS ECR)
+6. Criando seu primeiro container
+7. Trabalhando com imagens: docker build, docker pull, docker push
+8. Persistência de dados com Volumes
+9. Comunicação entre containers: Redes Docker
+10. Gerenciando containers em tempo real: logs, stats, exec
+11. Registries e versionamento de imagens (Docker Hub, GitHub, AWS ECR)
 
 ## Parte III – Docker com Aplicações Spring Boot
+
+12. Dockerizando uma aplicação Spring Boot
+13. Criando um Dockerfile eficiente para Java
+
+
 
