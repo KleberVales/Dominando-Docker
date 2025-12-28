@@ -10,6 +10,7 @@
 | 02 | [Containers vs Máquinas Virtuais]() |
 | 03 | [Instalando o Docker no seu sistema]() |
 | 04 | [Conceitos-chave: Imagens, Containers, Volumes e Redes]() |
+| 05 | [Comandos básicos do Docker]() |
 
 ---
 
