@@ -1,5 +1,18 @@
 # 📚 Sumário: Dominando Docker
 
+---
+
+## 01 Introduction to cloud computing
+
+| Nº | Pages |
+|----|--------|
+| 01 | [Introduction to cloud computing](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/01-Introduction-to-cloud-computing) |
+| 02 | [Deployment models: Public, Private, and Hybrid Cloud](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/02-Deployment-models:-Public,-Private,-and-Hybrid-Cloud) |
+| 03 | [Advantages of the cloud: Elasticity, scalability, costs, etc.](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/03-Advantages-of-the-cloud:-Elasticity,-scalability,-costs,-etc) |
+| 04 | [Service models: IaaS, PaaS, SaaS](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/04-Service-models:-IaaS,-PaaS,-SaaS) |
+
+---
+
 ## Parte I – Fundamentos da Conteinerização
 
 1. O que é Docker e por que usar?
