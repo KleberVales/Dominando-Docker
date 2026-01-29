@@ -28,7 +28,7 @@
 16. Testes e debug em containers Java
 17. Integração com Testcontainers para testes automatizados
 
-## Parte IV – Boas Práticas e Otimizações
+## 4. Boas Práticas e Otimizações
 
 18. Reduzindo o tamanho da imagem com JDKs leves
 19. Multi-stage builds para produção
