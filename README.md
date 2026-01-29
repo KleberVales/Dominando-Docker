@@ -28,7 +28,7 @@
 16. Testes e debug em containers Java
 17. Integração com Testcontainers para testes automatizados
 
-## 4. Boas Práticas e Otimizações
+## [4. Boas Práticas e Otimizações](https://github.com/KleberVales/Dominando-Docker/wiki/4-Boas-Pr%C3%A1ticas-e-Otimiza%C3%A7%C3%B5es)
 
 18. Reduzindo o tamanho da imagem com JDKs leves
 19. Multi-stage builds para produção
