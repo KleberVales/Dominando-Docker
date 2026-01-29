@@ -21,28 +21,28 @@
 
 ## [3. Docker com Aplicações Spring Boot](https://github.com/KleberVales/Dominando-Docker/wiki/3-Docker-com-Aplica%C3%A7%C3%B5es-Spring-Boot)
 
-12. Dockerizando uma aplicação Spring Boot
-13. Criando um Dockerfile eficiente para Java
-14. Usando docker-compose com banco de dados (MySQL, PostgreSQL)
-15. Variáveis de ambiente e perfis de configuração (application-dev.yml, application-prod.yml)
-16. Testes e debug em containers Java
-17. Integração com Testcontainers para testes automatizados
+- Dockerizando uma aplicação Spring Boot
+- Criando um Dockerfile eficiente para Java
+- Usando docker-compose com banco de dados (MySQL, PostgreSQL)
+- Variáveis de ambiente e perfis de configuração (application-dev.yml, application-prod.yml)
+- Testes e debug em containers Java
+- Integração com Testcontainers para testes automatizados
 
 ## [4. Boas Práticas e Otimizações](https://github.com/KleberVales/Dominando-Docker/wiki/4-Boas-Pr%C3%A1ticas-e-Otimiza%C3%A7%C3%B5es)
 
-18. Reduzindo o tamanho da imagem com JDKs leves
-19. Multi-stage builds para produção
-20. Segurança em containers
-21. Versionamento e organização de imagens
-22. Automatizando builds com CI/CD (GitHub Actions, GitLab CI)
+- Reduzindo o tamanho da imagem com JDKs leves
+- Multi-stage builds para produção
+- Segurança em containers
+- Versionamento e organização de imagens
+- Automatizando builds com CI/CD (GitHub Actions, GitLab CI)
 
-## Parte V – Orquestração e Escalabilidade
+## 5. Orquestração e Escalabilidade
 
-23. Introdução ao Docker Swarm
-24. Conceitos de Kubernetes para desenvolvedores
-25. Deploy de microsserviços com Docker e Spring Cloud
-26. Monitoramento e logging de containers
-27. Preparando sua aplicação para produção em nuvem
+- Introdução ao Docker Swarm
+- Conceitos de Kubernetes para desenvolvedores
+- Deploy de microsserviços com Docker e Spring Cloud
+- Monitoramento e logging de containers
+- Preparando sua aplicação para produção em nuvem
 
 
 
