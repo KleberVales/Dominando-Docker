@@ -12,12 +12,12 @@
 
 ## [2. Criando e Gerenciando Containers](https://github.com/KleberVales/Dominando-Docker/wiki/2.-Criando-e-Gerenciando-Containers)
 
-6. Criando seu primeiro container
-7. Trabalhando com imagens: docker build, docker pull, docker push
-8. Persistência de dados com Volumes
-9. Comunicação entre containers: Redes Docker
-10. Gerenciando containers em tempo real: logs, stats, exec
-11. Registries e versionamento de imagens (Docker Hub, GitHub, AWS ECR)
+- Criando seu primeiro container
+- Trabalhando com imagens: docker build, docker pull, docker push
+- Persistência de dados com Volumes
+- Comunicação entre containers: Redes Docker
+- Gerenciando containers em tempo real: logs, stats, exec
+- Registries e versionamento de imagens (Docker Hub, GitHub, AWS ECR)
 
 ## [3. Docker com Aplicações Spring Boot](https://github.com/KleberVales/Dominando-Docker/wiki/3-Docker-com-Aplica%C3%A7%C3%B5es-Spring-Boot)
 
