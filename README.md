@@ -4,15 +4,11 @@
 
 ## Parte I – Fundamentos da Conteinerização
 
-| Nº | Pages |
-|----|--------|
-| 01 | [O que é Docker e por que usar?]() |
-| 02 | [Containers vs Máquinas Virtuais]() |
-| 03 | [Instalando o Docker no seu sistema]() |
-| 04 | [Conceitos-chave: Imagens, Containers, Volumes e Redes]() |
-| 05 | [Comandos básicos do Docker]() |
-
----
+- O que é Docker e por que usar?
+- Containers vs Máquinas Virtuais
+- Instalando o Docker no seu sistema
+- Conceitos-chave: Imagens, Containers, Volumes e Redes
+- Comandos básicos do Docker
 
 ## Parte II – Criando e Gerenciando Containers
 
