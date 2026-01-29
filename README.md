@@ -10,7 +10,7 @@
 - Conceitos-chave: Imagens, Containers, Volumes e Redes
 - Comandos básicos do Docker
 
-## Parte II – Criando e Gerenciando Containers
+## 2. Criando e Gerenciando Containers
 
 6. Criando seu primeiro container
 7. Trabalhando com imagens: docker build, docker pull, docker push
