@@ -8,7 +8,7 @@
 ### 1.4 Conceitos-chave: Imagens, Containers, Volumes e Redes
 ### 1.5 Comandos básicos do Docker
 
-## [2. Criando e Gerenciando Containers](https://github.com/KleberVales/Dominando-Docker/wiki/02-Criando-e-Gerenciando-Containers)
+## 2. Criando e Gerenciando Containers
 
 - Criando seu primeiro container
 - Trabalhando com imagens: docker build, docker pull, docker push
