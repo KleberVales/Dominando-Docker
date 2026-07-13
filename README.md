@@ -14,7 +14,7 @@
 ### 2.2 Trabalhando com imagens: docker build, docker pull, docker push
 ### 2.3 Persistência de dados com Volumes
 ### 2.4 Comunicação entre containers: Redes Docker
-- Gerenciando containers em tempo real: logs, stats, exec
+### 2.5 Gerenciando containers em tempo real: logs, stats, exec
 - Registries e versionamento de imagens (Docker Hub, GitHub, AWS ECR)
 
 ## [3. Docker com Aplicações Spring Boot](https://github.com/KleberVales/Dominando-Docker/wiki/03-Docker-com-Aplica%C3%A7%C3%B5es-Spring-Boot)
