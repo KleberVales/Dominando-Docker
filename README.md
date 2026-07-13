@@ -1,8 +1,6 @@
 # 📚 Sumário: Dominando Docker
 
----
-
-## [1. Fundamentos da Conteinerização](https://github.com/KleberVales/Dominando-Docker/wiki/01-Containerization-Fundamentals)
+## 1. Fundamentos da Conteinerização
 
 - O que é Docker e por que usar?
 - Containers vs Máquinas Virtuais
