@@ -11,7 +11,7 @@
 ## 2. Criando e Gerenciando Containers
 
 ### 2.1 Criando seu primeiro container
-- Trabalhando com imagens: docker build, docker pull, docker push
+### 2.2 Trabalhando com imagens: docker build, docker pull, docker push
 - Persistência de dados com Volumes
 - Comunicação entre containers: Redes Docker
 - Gerenciando containers em tempo real: logs, stats, exec
