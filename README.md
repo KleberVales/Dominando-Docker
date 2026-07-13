@@ -13,7 +13,7 @@
 ### 2.1 Criando seu primeiro container
 ### 2.2 Trabalhando com imagens: docker build, docker pull, docker push
 ### 2.3 Persistência de dados com Volumes
-- Comunicação entre containers: Redes Docker
+### 2.4 Comunicação entre containers: Redes Docker
 - Gerenciando containers em tempo real: logs, stats, exec
 - Registries e versionamento de imagens (Docker Hub, GitHub, AWS ECR)
 
