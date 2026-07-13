@@ -2,7 +2,7 @@
 
 ## 1. Fundamentos da Conteinerização
 
-- O que é Docker e por que usar?
+### 1.1 O que é Docker e por que usar?
 - Containers vs Máquinas Virtuais
 - Instalando o Docker no seu sistema
 - Conceitos-chave: Imagens, Containers, Volumes e Redes
