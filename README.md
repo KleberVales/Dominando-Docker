@@ -6,7 +6,7 @@
 ### 1.2 Containers vs Máquinas Virtuais
 ### 1.3 Instalando o Docker no seu sistema
 ### 1.4 Conceitos-chave: Imagens, Containers, Volumes e Redes
-- Comandos básicos do Docker
+### 1.5 Comandos básicos do Docker
 
 ## [2. Criando e Gerenciando Containers](https://github.com/KleberVales/Dominando-Docker/wiki/02-Criando-e-Gerenciando-Containers)
 
