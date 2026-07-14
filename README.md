@@ -34,7 +34,7 @@
 ### 4.4 Versionamento e organização de imagens
 ### 4.5 Automatizando builds com CI/CD (GitHub Actions, GitLab CI)
 
-## [5. Orquestração e Escalabilidade](https://github.com/KleberVales/Dominando-Docker/wiki/05-Orquestra%C3%A7%C3%A3o-e-Escalabilidade)
+## 5. Orquestração e Escalabilidade
 
 - Introdução ao Docker Swarm
 - Conceitos de Kubernetes para desenvolvedores
