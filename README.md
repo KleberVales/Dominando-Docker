@@ -28,7 +28,7 @@
 
 ## 4. Boas Práticas e Otimizações
 
-- Reduzindo o tamanho da imagem com JDKs leves
+### 4.1 Reduzindo o tamanho da imagem com JDKs leves
 - Multi-stage builds para produção
 - Segurança em containers
 - Versionamento e organização de imagens
