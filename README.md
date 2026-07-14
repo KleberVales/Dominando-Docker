@@ -24,7 +24,7 @@
 ### 3.3 Usando docker-compose com banco de dados (MySQL, PostgreSQL)
 ### 3.4 Variáveis de ambiente e perfis de configuração (application-dev.yml, application-prod.yml)
 ### 3.5 Testes e debug em containers Java
-- Integração com Testcontainers para testes automatizados
+### 3.6 Integração com Testcontainers para testes automatizados
 
 ## [4. Boas Práticas e Otimizações](https://github.com/KleberVales/Dominando-Docker/wiki/04-Boas-Pr%C3%A1ticas-e-Otimiza%C3%A7%C3%B5es)
 
