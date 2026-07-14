@@ -40,7 +40,7 @@
 ### 5.2 Conceitos de Kubernetes para desenvolvedores
 ### 5.3 Deploy de microsserviços com Docker e Spring Cloud
 ### 5.4 Monitoramento e logging de containers
-- Preparando sua aplicação para produção em nuvem
+### 5.5 Preparando sua aplicação para produção em nuvem
 
 
 
