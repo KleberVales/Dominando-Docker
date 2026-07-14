@@ -21,7 +21,7 @@
 
 ### 3.1 Dockerizando uma aplicação Spring Boot
 ### 3.2 Criando um Dockerfile eficiente para Java
-- Usando docker-compose com banco de dados (MySQL, PostgreSQL)
+### 3.3 Usando docker-compose com banco de dados (MySQL, PostgreSQL)
 - Variáveis de ambiente e perfis de configuração (application-dev.yml, application-prod.yml)
 - Testes e debug em containers Java
 - Integração com Testcontainers para testes automatizados
