@@ -19,7 +19,7 @@
 
 ## 3. Docker com Aplicações Spring Boot
 
-- Dockerizando uma aplicação Spring Boot
+### 3.1 Dockerizando uma aplicação Spring Boot
 - Criando um Dockerfile eficiente para Java
 - Usando docker-compose com banco de dados (MySQL, PostgreSQL)
 - Variáveis de ambiente e perfis de configuração (application-dev.yml, application-prod.yml)
