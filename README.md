@@ -39,7 +39,7 @@
 ### 5.1 Introdução ao Docker Swarm
 ### 5.2 Conceitos de Kubernetes para desenvolvedores
 ### 5.3 Deploy de microsserviços com Docker e Spring Cloud
-- Monitoramento e logging de containers
+### 5.4 Monitoramento e logging de containers
 - Preparando sua aplicação para produção em nuvem
 
 
