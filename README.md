@@ -30,7 +30,7 @@
 
 ### 4.1 Reduzindo o tamanho da imagem com JDKs leves
 ### 4.2 Multi-stage builds para produção
-- Segurança em containers
+### 4.3 Segurança em containers
 - Versionamento e organização de imagens
 - Automatizando builds com CI/CD (GitHub Actions, GitLab CI)
 
