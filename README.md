@@ -29,7 +29,7 @@
 ## 4. Boas Práticas e Otimizações
 
 ### 4.1 Reduzindo o tamanho da imagem com JDKs leves
-- Multi-stage builds para produção
+### 4.2 Multi-stage builds para produção
 - Segurança em containers
 - Versionamento e organização de imagens
 - Automatizando builds com CI/CD (GitHub Actions, GitLab CI)
