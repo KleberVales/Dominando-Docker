@@ -31,7 +31,7 @@
 ### 4.1 Reduzindo o tamanho da imagem com JDKs leves
 ### 4.2 Multi-stage builds para produção
 ### 4.3 Segurança em containers
-- Versionamento e organização de imagens
+### 4.4 Versionamento e organização de imagens
 - Automatizando builds com CI/CD (GitHub Actions, GitLab CI)
 
 ## [5. Orquestração e Escalabilidade](https://github.com/KleberVales/Dominando-Docker/wiki/05-Orquestra%C3%A7%C3%A3o-e-Escalabilidade)
