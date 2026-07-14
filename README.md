@@ -36,7 +36,7 @@
 
 ## 5. Orquestração e Escalabilidade
 
-- Introdução ao Docker Swarm
+### 5.1 Introdução ao Docker Swarm
 - Conceitos de Kubernetes para desenvolvedores
 - Deploy de microsserviços com Docker e Spring Cloud
 - Monitoramento e logging de containers
